@@ -1,0 +1,36 @@
+{
+  "Unknown Test Framework": {
+    "coverage": {
+    },
+    "timestamp": 1598902812
+  },
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Easy_9/perfect_numbers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          4,
+          3,
+          2,
+          2,
+          null,
+          null,
+          1,
+          40,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1598903626
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Unknown Test Framework": {
+    "coverage": {
+    },
+    "timestamp": 1598893905
+  },
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Easy_8/word_count.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          11,
+          null,
+          null,
+          1,
+          12,
+          null,
+          12,
+          47,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          12,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1598897728
+  }
+}
