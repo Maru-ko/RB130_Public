@@ -39,7 +39,7 @@ end
 
 # p anagram.match(%w(BELOW BOWEL ELBOW elbow BOWLE BLOWE))
 
-detector = Anagram.new('ELBOW')
-p detector.match(%w(BELOW BOWEL ELBOW elbow Elbow Bowel))
-#=> ["BELOW", "BOWEL"]
+# detector = Anagram.new('ELBOW')
+# p detector.match(%w(BELOW BOWEL ELBOW elbow Elbow Bowel))
+# #=> ["BELOW", "BOWEL"]
 
