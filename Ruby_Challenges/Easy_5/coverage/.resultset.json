@@ -1,0 +1,52 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Easy_5/sum_of_multiples.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          8,
+          null,
+          null,
+          1,
+          33361,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          8,
+          null,
+          null,
+          1,
+          5,
+          4,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1598841969
+  }
+}

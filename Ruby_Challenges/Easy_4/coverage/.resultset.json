@@ -1,0 +1,47 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Easy_4/trinary.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          11,
+          null,
+          null,
+          1,
+          10,
+          10,
+          41,
+          41,
+          null,
+          null,
+          10,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          10,
+          null,
+          null,
+          1,
+          11,
+          null,
+          10,
+          33,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1598834634
+  }
+}

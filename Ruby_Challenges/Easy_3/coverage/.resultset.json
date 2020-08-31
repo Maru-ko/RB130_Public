@@ -1,0 +1,30 @@
+{
+  "Unknown Test Framework": {
+    "coverage": {
+    },
+    "timestamp": 1598812165
+  },
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Easy_3/octal.rb": {
+        "lines": [
+          1,
+          1,
+          16,
+          null,
+          null,
+          1,
+          16,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1
+        ]
+      }
+    },
+    "timestamp": 1598812246
+  }
+}

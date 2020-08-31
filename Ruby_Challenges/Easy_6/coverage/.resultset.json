@@ -1,0 +1,51 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Easy_6/anagram.rb": {
+        "lines": [
+          1,
+          1,
+          11,
+          11,
+          null,
+          null,
+          1,
+          11,
+          41,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          52,
+          4,
+          null,
+          48,
+          null,
+          null,
+          null,
+          1,
+          52,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1598842966
+  }
+}
