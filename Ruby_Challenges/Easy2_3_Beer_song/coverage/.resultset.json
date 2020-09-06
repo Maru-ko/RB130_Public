@@ -1,7 +1,7 @@
 {
   "Minitest": {
     "coverage": {
-      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Set_2_Easy/beer_song/beer_song.rb": {
+      "/Users/koseypro/Coding/RB130_Public/Ruby_Challenges/Easy2_3_Beer_song/beer_song.rb": {
         "lines": [
           1,
           1,
@@ -44,6 +44,6 @@
         ]
       }
     },
-    "timestamp": 1599357133
+    "timestamp": 1599359559
   }
 }
