@@ -1,0 +1,52 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Set_2_Medium1/Medium1_Pig_Latin/pig_latin.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          15,
+          17,
+          4,
+          13,
+          3,
+          null,
+          10,
+          null,
+          null,
+          null,
+          null,
+          1,
+          17,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1599508682
+  }
+}
