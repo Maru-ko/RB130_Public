@@ -1,0 +1,49 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Set_2_Medium1/Medium1_Protein_Translation/protein_translation.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          30,
+          null,
+          null,
+          1,
+          4,
+          4,
+          13,
+          null,
+          13,
+          null,
+          12,
+          12,
+          null,
+          8,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1599514830
+  }
+}
