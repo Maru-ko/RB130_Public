@@ -1,0 +1,49 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130/Ruby_Challenges/Set_4_Medium2/Medium2_Run_Length_Encoding/run_length_encoding.rb": {
+        "lines": [
+          1,
+          1,
+          4,
+          3,
+          3,
+          3,
+          69,
+          3,
+          66,
+          1,
+          1,
+          1,
+          1,
+          65,
+          0,
+          65,
+          55,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          null,
+          null,
+          3,
+          null,
+          null,
+          1,
+          4,
+          3,
+          null,
+          13,
+          13,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1599688535
+  }
+}
