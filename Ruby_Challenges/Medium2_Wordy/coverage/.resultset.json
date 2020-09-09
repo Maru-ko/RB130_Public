@@ -1,0 +1,55 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB130_Public/Ruby_Challenges/Medium2_Wordy/wordy.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          16,
+          16,
+          null,
+          null,
+          1,
+          16,
+          14,
+          35,
+          14,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          16,
+          16,
+          21,
+          null,
+          null,
+          1,
+          16,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1599623751
+  }
+}
