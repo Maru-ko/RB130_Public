@@ -1,0 +1,45 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB139/Ruby_C_study/Medium2_6_robot_name/robot_name.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          7,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          8,
+          8,
+          12,
+          null,
+          4,
+          null,
+          8,
+          8,
+          null,
+          null,
+          1,
+          12,
+          12,
+          12,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1601065275
+  }
+}
