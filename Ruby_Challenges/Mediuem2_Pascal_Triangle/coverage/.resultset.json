@@ -1,0 +1,32 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/koseypro/Coding/RB139/Ruby_C_study/Medium2_3_pascal/one/pascals_triangle.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          7,
+          null,
+          null,
+          1,
+          7,
+          33,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1
+        ]
+      }
+    },
+    "timestamp": 1601077734
+  }
+}
