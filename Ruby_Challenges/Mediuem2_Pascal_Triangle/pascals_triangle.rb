@@ -16,6 +16,3 @@ class Triangle
 
   private :max
 end
-
-triangle = Triangle.new(5)
-p triangle.rows
