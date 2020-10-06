@@ -1,0 +1,61 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/kirakira/Documents/LaunchSchool/RB130/Ruby_Challenges/Set_5_Advanced1/Advanced_1/Pythagorean_Triplet/triplet.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          172144,
+          172144,
+          172144,
+          null,
+          null,
+          1,
+          53,
+          null,
+          null,
+          1,
+          7,
+          null,
+          null,
+          1,
+          172142,
+          172142,
+          172142,
+          null,
+          null,
+          1,
+          1,
+          3,
+          3,
+          3,
+          3,
+          null,
+          3,
+          172140,
+          null,
+          172140,
+          55,
+          52,
+          null,
+          3,
+          null,
+          null,
+          null,
+          3,
+          null,
+          null,
+          1,
+          3,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1601945955
+  }
+}
